@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/cerbeh/vue-component-schema/issues"
   },
-  "homepage": "https://github.com/cerbeh/vue-component-schema#readme"
+  "homepage": "https://github.com/cerbeh/vue-component-schema#readme",
+  "dependencies": {
+    "vue": "^2.6.12"
+  },
+  "devDependencies": {
+    "@vue/test-utils": "^1.1.0",
+    "babel-core": "^6.26.3",
+    "vue-jest": "^3.0.7",
+    "vue-template-compiler": "^2.6.12"
+  }
 }
